@@ -1,6 +1,6 @@
 CXX := g++
-CXXFLAGS := -std=gnu++17 -O2 -pipe -static -s
-LDFLAGS := -static
+CXXFLAGS := -std=gnu++17 -O2 -pipe -s
+LDFLAGS :=
 
 SRC := main.cpp
 BIN := code
